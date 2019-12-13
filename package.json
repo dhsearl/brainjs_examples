@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "brain.js": "^1.2.6"
+    "brain.js": "^1.2.6",
+    "event-stream": "^4.0.1",
+    "path": "^0.12.7",
+    "retext-english": "^3.0.4",
+    "retext-equality": "^4.3.0",
+    "retext-stringify": "^2.0.4",
+    "to-vfile": "^6.0.0",
+    "unified": "^8.4.2",
+    "vfile-reporter": "^6.0.0"
   }
 }

@@ -9,9 +9,9 @@ const trainingData = data.map(item => ({
 }));
 
 network.train(trainingData, {
-  iterations: 2000
+  iterations: 200
 });
 
-const output = network.run('The code has some bugs');
+const output = network.run('The graphics card is shitty');
 
 console.log(`Category: ${output}`);
